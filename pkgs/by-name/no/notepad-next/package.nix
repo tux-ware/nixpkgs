@@ -7,7 +7,7 @@
 
 stdenv.mkDerivation (finalAttrs: {
   pname = "notepad-next";
-  version = "0.12";
+  version = "0.14";
 
   src = fetchFromGitHub {
     owner = "dail8859";
